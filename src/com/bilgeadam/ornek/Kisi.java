@@ -6,6 +6,9 @@ public class Kisi {
     private String soyad;
     private double maas;
 
+
+    //constructor overloading
+    //hangi constructor uyuyorsa , onu çalıştırıyor.
     public Kisi() {
     }
 
